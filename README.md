@@ -1,2 +1,2 @@
-# WillPierson1.github.io
+# WillPierson.github.io
 Github pages site
