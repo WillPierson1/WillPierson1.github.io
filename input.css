@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Terminal Code Styled Text */
+.code {
+    font-family: "Source Code Pro", monospace;
+}
+
+body{
+    box-sizing: border-box;
+}
